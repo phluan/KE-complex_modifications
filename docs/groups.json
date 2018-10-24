@@ -39,6 +39,9 @@
         },
         {
           "path": "json/pc_style_modifiers.json"
+        },
+        {
+          "path": "json/left_ctrl_to_navigation_layer.json"
         }
       ]
     },
